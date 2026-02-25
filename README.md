@@ -1,4 +1,5 @@
 🎮 Loja de Jogos
+
 Este é um projeto desenvolvido em NestJS com TypeORM e MySQL para gerenciamento de um catálogo de jogos e categorias.
 
 🚀 Pré-requisitos
